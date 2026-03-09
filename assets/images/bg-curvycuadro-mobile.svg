@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 375 359" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xml:space="preserve" xmlns:serif="http://www.serif.com/" style="fill-rule:evenodd;clip-rule:evenodd;stroke-linejoin:round;stroke-miterlimit:2;">
+    <g transform="matrix(1,0,0,1,-2292.814961,-1545.475308)">
+        <g transform="matrix(1,0,0,1,2480.314961,1615.975308)">
+            <g transform="matrix(1,0,0,1,-187.5,-70.5)">
+                <clipPath id="_clip1">
+                    <rect x="0" y="0" width="375" height="141"/>
+                </clipPath>
+                <g clip-path="url(#_clip1)">
+                    <defs>
+                        <mask id="Mask">
+                        
+                            <g transform="matrix(1,-0,-0,1,0,0)"><image id="_Image2" width="375px" height="359px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAXcAAAFnCAAAAAB4fVa5AAAACXBIWXMAAA7EAAAOxAGVKw4bAAADFklEQVR4nO3QQREAIAzAMIZ/zyAjjzUKep13AlwdsFTfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703ei70Xej70bfjb4bfTf6bvTd6LvRd6PvRt+Nvht9N/pu9N3ou9F3o+9G342+G303+m703fj/JwPNXw4nPQAAAABJRU5ErkJggg=="/>
+                            </g>
+                        </mask>
+                    </defs>
+                    <g mask="url(#Mask)">
+                        <path d="M0,128.937C22.708,127.268 44.049,113.247 64.024,86.874C93.986,47.314 87.497,32.756 137.242,46.312C186.988,59.868 182.75,50.989 214.736,19.664C246.721,-11.661 267.482,-4.493 286.981,33.576C306.48,71.646 342.128,80.84 375.376,94.82C397.541,104.14 397.541,1390.867 375.376,3955L0,3955L0,128.937Z" style="fill:rgb(24,31,43);"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+        <g transform="matrix(1.168224,0,0,1.235525,2260.814471,1134.384183)">
+            <rect x="27.392" y="445.229" width="321" height="178" style="fill:rgb(24,31,43);"/>
+        </g>
+    </g>
+</svg>
